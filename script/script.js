@@ -1,6 +1,6 @@
 const iconMenu = document.querySelector('.menu__icon');
 const menuBody = document.querySelector('.header__nav');
-const menuLinks = document.querySelectorAll('.header__nav-link');
+const menuLinks = document.querySelectorAll('.header__nav-link, .header__logo-link');
 
 
 if (iconMenu) {
